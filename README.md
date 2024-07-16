@@ -1,6 +1,6 @@
 ### Descrição
 
-Este repositório contém o código-fonte de um sistema de serviços de lanchonete implementado em Java. O sistema simula os fluxos de trabalho de uma lanchonete, incluindo:
+Este repositório contém um sistema de serviços de lanchonete implementado em Java. Onde simula os fluxos de trabalho de uma lanchonete, incluindo:
 
 - **Preparo de alimentos**: cozinheiros preparam lanches, vitaminas e combos.
 - **Gerenciamento de estoque**: almoxarifes controlam a entrada e saída de itens, entregam ingredientes e trocam o gás.
